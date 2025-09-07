@@ -1,0 +1,8 @@
+C:\Users\Stefan\Documents\GitHub\Test_Endava\obj\Debug\net8.0\CarInsurance.Api.csproj.AssemblyReference.cache
+C:\Users\Stefan\Documents\GitHub\Test_Endava\obj\Debug\net8.0\CarInsurance.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Documents\GitHub\Test_Endava\obj\Debug\net8.0\CarInsurance.Api.AssemblyInfoInputs.cache
+C:\Users\Stefan\Documents\GitHub\Test_Endava\obj\Debug\net8.0\CarInsurance.Api.AssemblyInfo.cs
+C:\Users\Stefan\Documents\GitHub\Test_Endava\obj\Debug\net8.0\CarInsurance.Api.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Documents\GitHub\Test_Endava\obj\Debug\net8.0\CarInsurance.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Stefan\Documents\GitHub\Test_Endava\obj\Debug\net8.0\CarInsurance.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Stefan\Documents\GitHub\Test_Endava\obj\Debug\net8.0\CarInsurance.Api.sourcelink.json
